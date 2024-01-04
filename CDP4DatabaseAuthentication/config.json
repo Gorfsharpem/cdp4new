@@ -1,7 +1,7 @@
 {
 	"AuthenticatorConnectorProperties": [{
       "Rank": 0,
-      "IsEnabled": true,
+      "IsEnabled": false,
       "Name": "Basic Authentication",
       "Description": "Provides basic password authentication against the Person retrieved from the database."
 	}]
